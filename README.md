@@ -6,7 +6,7 @@ This repository contains my work on Single-Trial EEG Classification, where I foc
 
 The project demonstrates my skills in data analysis, signal processing, and machine learning. 
 
-**Key Highlights **
+**Key Highlights**
 
 Data Analysis: Preprocessing and feature extraction from EEG data using ERP and connectivity measures. 
 
